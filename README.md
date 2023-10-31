@@ -8,10 +8,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Use the standard libraries in python for finding linear regression
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Predict the values of array.
+5. Calculate the accuracy, confusion and classification report by importing the required modules
+from sklearn.
+6. Obtain the graph
 
 ## Program:
 ```
@@ -116,16 +119,16 @@ np.mean(predict(res.x,x)==y)
 ```
 
 ## Output:
-![ex 5 1](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/f79f8d9b-489a-4a75-bf9b-e7318acdc0b3)
-![ex 5 2](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/fe615bf7-648f-48f3-973e-8f8d6907ab59)
-![ex 5 3](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/edd347b7-834a-4842-9994-fefd595c4140)
-![ex 5 4](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/14dbdba5-36dc-41a6-807b-9619c87fe4dd)
-![ex 5 5](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/08db8880-0951-4a15-b748-6b0fb4d9fb66)
-![ex 5 6](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/f44990f4-4cde-4c95-8854-c3fbbda2cf8c)
-![ex 5 7](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/0ac92e23-5ba5-45ee-ad8d-9e05ef4010dd)
-![ex 57](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/c859edb4-bbfe-42e0-99e0-477966f00647)
-![ex 5 8](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/ba7e24de-e83f-474d-bffa-16691d19023b)
-![ex 5 9](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/39cf79cc-c641-4315-a34c-18177a5c7a53)
+![ex 5 1.Array Value of x](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/f79f8d9b-489a-4a75-bf9b-e7318acdc0b3)
+![ex 5 2.Array Value of y](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/fe615bf7-648f-48f3-973e-8f8d6907ab59)
+![ex 5 3.Exam 1-Score Graph](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/edd347b7-834a-4842-9994-fefd595c4140)
+![ex 5 4.Sigmoid function graph](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/14dbdba5-36dc-41a6-807b-9619c87fe4dd)
+![ex 5 5.x_train_grad value](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/08db8880-0951-4a15-b748-6b0fb4d9fb66)
+![ex 5 6.y_train_grad value](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/f44990f4-4cde-4c95-8854-c3fbbda2cf8c)
+![ex 5 7.Print res.x](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/0ac92e23-5ba5-45ee-ad8d-9e05ef4010dd)
+![ex 5 8.Decision boundary-graph for exam score](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/c859edb4-bbfe-42e0-99e0-477966f00647)
+![ex 5 9.Probability value](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/ba7e24de-e83f-474d-bffa-16691d19023b)
+![ex 5 10.Prediction value of mean](https://github.com/RoghithKrishnamoorthy/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475474/39cf79cc-c641-4315-a34c-18177a5c7a53)
 
 
 
